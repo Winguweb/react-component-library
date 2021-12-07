@@ -1,6 +1,6 @@
 {
   "name": "@Winguweb/react-component-library",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React component library",
   "scripts": {
     "rollup": "rollup -c",
@@ -33,7 +33,6 @@
     "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.0.3",
     "babel-jest": "^27.4.2",
-    "babel-loader": "^8.2.3",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^27.4.3",
     "rollup": "^2.60.2",
