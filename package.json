@@ -1,6 +1,6 @@
 {
   "name": "@Winguweb/react-component-library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React component library",
   "scripts": {
     "rollup": "rollup -c"
@@ -17,7 +17,8 @@
     "@rollup/plugin-node-resolve": "^13.0.6",
     "@rollup/plugin-typescript": "^8.3.0",
     "rollup": "^2.60.2",
-    "rollup-plugin-dts": "^4.0.1"
+    "rollup-plugin-dts": "^4.0.1",
+    "rollup-plugin-postcss": "^4.0.2"
   },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
