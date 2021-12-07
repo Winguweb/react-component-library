@@ -1,7 +1,7 @@
 {
-  "name": "wingu-component-library",
+  "name": "@Winguweb/react-component-library",
   "version": "0.0.1",
-  "description": "React componente library",
+  "description": "React component library",
   "scripts": {
     "rollup": "rollup -c"
   },
@@ -24,5 +24,8 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Winguweb"
+  }
 }
